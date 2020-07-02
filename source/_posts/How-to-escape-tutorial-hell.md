@@ -22,7 +22,11 @@ There are many posts that talk about how to escape tutorial hell. Writing how to
 
 ### Why is Tutorial Hell such a problem
 
-Many people think of themselves as greater than they actually are at tasks like programming, also called the (dunning-kruger effect)[https://i.pinimg.com/originals/93/ab/bd/93abbdf907cd6e49ae4f5e10437a629a.jpg]. Because of this whenever they let go of a tutorial they feel hopeless and stupid. They view the time it would take them to complete a simple project as comparable to forever. They also end doubting themselves of their own ability
+Many people think of themselves as greater than they actually are at tasks like programming, also called the (dunning-kruger effect)[https://i.pinimg.com/originals/93/ab/bd/93abbdf907cd6e49ae4f5e10437a629a.jpg]. Because of this whenever they let go of a tutorial they feel hopeless and stupid. They view the time it would take them to complete a simple project as comparable to forever. They also end up doubting themselves of their own ability. Also according to Ray Gardener from Quora, "Because a lot of beginners are hoping to make money, but valuable software is far more difficult to develop than it used to be. So with each failure to get a job or develop something useful, novices try more learning.". Learning is something that everyone feels like they cannot fail at. They can feel the success from actually making something, even if they themselves never made it. Also, from experience, starting projects that seem like great ideas, are only good until I get burned out or work on it for too long. Because of this inability to work on projects for a long time means that I must resort to thinking I am doing some worthwhile so I become a better programmer. I resort to tutorials for this.
+
+### Closing Thoughts
+
+Please remember that everyone has gone through some sort of tutorial hell. It is a very common problem in a competitive market. Being able to understand tutorial hell in its entirety is something that every developer should know because it causes them to understand the problems that face them a lot better. Just remember to enjoy yourself while programming and keep practicing your skills.
 
 ------
 Sources:
